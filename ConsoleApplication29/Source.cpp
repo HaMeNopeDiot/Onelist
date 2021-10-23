@@ -466,7 +466,7 @@ Tlist mergeSortedListts(Tlist head1, Tlist head2)
 	}
 	return res;
 }
-
+// lox jopa
 bool isNotLoop(Tlist head)
 {
 	Tlist slow = head, fast = head;

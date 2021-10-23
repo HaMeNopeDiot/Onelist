@@ -50,6 +50,4 @@ void DoubleE(Tlist& head, int e);
 void EqualNeighber(Tlist& head);
 
 
-//bool CheckLoopIn(Tlist pNode);
-//bool isNotLoop(Tlist& head);
 #endif
